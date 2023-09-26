@@ -1,0 +1,53 @@
+<?php
+
+return [
+
+     'verfication_code_sended_successfully.'                   => 'Verfication Code Sended Successfully',
+     'faild_to_send_sms.'                                      => 'Faild To Send Sms',
+     'something_wrong_happen'                                  => 'SomeThing Wrong Happen',
+     'verify_your_account_first'                               => 'Verify Your Account First',
+     'user_login_successfully'                                 => 'User Login Successfully',
+     'Unauthorised'                                            => 'Unauthorised',
+     'phone_number_and_otp_not_matched'                        => 'Phone Number And Otp Not Matched',
+     'user_not_found'                                          => 'User Not Found',
+     'user_deleted_successfully'                               => 'User Deleted Successfully',
+     'check_your_old_password'                                 => 'Check Your Old Password',
+     'please_enter_a_password_which_is_not_similar_then_current_password '      => 'Please Enter A Password Which Is Not Similar Then Current Password',
+     'password_updated_successfully'                           => 'Password Updated Successfully',
+     'server_error'                                            => 'Server Error',
+     'verfication_code_resended_successfully'                  => 'Verfication Code Resended Successfully',
+     'data_successfully_updated'                               => 'Data Successfully Updated',
+     'phone_number_not_found'                                  => 'Phone Number Not Found',
+     'otp_sent_successfully'                                   => 'Otp Sent Successfully',
+     'OTP_found_you_can_proceed'                               => 'OTP Found, You Can Proceed',
+     'invalid_otp'                                             => 'Invalid Otp',
+     'password_did_not_match'                                  => 'Password Did Not Match',
+     'password_changed_successfully'                           => 'Password Changed Successfully',
+     'create'                      => 'Create',
+     'title_en'                    => 'English Title',
+     'title_ar'                    => 'Arabic Title',
+     'content_en'                  => 'English Content',
+     'content_ar'                  => 'Arabic Content',
+     'save'                        => 'Save',
+     'active'                      => 'Active',
+     'not_active'                  => 'Not Active',
+     'categories'                  => 'Categories',
+     'all_categories'              => 'All Categories',
+     'name'                        => 'Name',
+     'name_en'                     => 'English Name',
+     'name_ar'                     => 'Arabic Name',
+     'something_wrong_happen'      => 'SomeThing Wrong Happen',
+     'add_category'                =>  'Add Category',
+     'create_new_category'         => 'Create New Category',
+     'edit_category'               => 'Edit Category',
+     'show_all_categories'         => 'Show All Categories',
+
+     'search'                      => 'Search',
+     'menu'                        => 'Menu',
+     'tables'                      => 'Tables',
+     'display_date'                => 'Mazad Display Date Required',
+     'end_date'                    => 'Mazad End Date Required',
+
+     
+     
+];

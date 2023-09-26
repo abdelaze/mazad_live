@@ -1,0 +1,31 @@
+<?php
+
+return [
+	
+	'Dashboard'                                  => 'الرئيسية',
+	'ads'                                        => 'الاعلانات',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+	'Dashboard'                                  => 'الرئيسية',
+];

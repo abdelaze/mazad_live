@@ -1,0 +1,32 @@
+<?php
+
+return [
+
+     'Dashboard'                   => 'Dashboard',
+     'ads'                         => 'Ads',
+     'onboardings'                 => 'Onboardings',
+     'datatables'                  => 'DataTables',
+     'all_noboardings'             => 'All Onboardings',
+     'show_all_noboardings'        => 'Show All Onboardings',
+     'no'                          => 'No',
+     'title'                       => 'Title',
+     'content'                     => 'Content',
+     'iamge'                       => 'Image',
+     'status'                      => 'Status',
+     'action'                      => 'Action',
+     'Want_to_delete'              => 'Are You Sure Want To Delete?',
+     'add_onbaording'              => 'Add Add Onbaording',
+     'create_new_onbaording'       => 'Create New Onbaording',
+     'Save'                        => 'Save',
+     'edit_onbaording'             => 'Edit Onbaording',
+     'update'                      => 'Update',
+     'data_addeded_successfully'   => 'Date Added Successfully',
+     'data_addeded_successfully'   => 'Date Update Successfully',
+     'data_deleted_successfully'   => 'Data Deleted Successfully',
+     'title_en'                    => 'English Title',
+     'title_ar'                    => 'Arabic Title',
+     'Dashboard'                   => 'Dashboard',
+     'Dashboard'                   => 'Dashboard',
+     'Dashboard'                   => 'Dashboard',
+     'Dashboard'                   => 'Dashboard',
+];
